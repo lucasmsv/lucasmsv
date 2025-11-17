@@ -1,38 +1,42 @@
-<h1 align="left">👋 Olá! Sou o Lucas.</h1>
+<div align="center">
+  <h1>Hey 👋 Welcome to my GitHub!</h1>
+</div>
 
-<p>
-  💻 Engenharia de Software e Gestão de TI. <br>
-  🚀 Curioso, persistente e em constante evolução.
-</p>
-
----
-
-### ⚙️ Tecnologias
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" title="Linux"/>
+<div>
+  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
-
+### 🛠 Tech Stack
 <div align="left">
-  <img height="130" src="https://my-stats-43gk.vercel.app/api?username=lucasmsv&show_icons=true&theme=dark&hide=contribs,issues&rank_icon=github&include_all_commits=true&bg_color=000000&border_color=007acc" />
-  <img height="130" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=lucasmsv&hide=html,scss,css&langs_count=8&layout=compact&theme=dark&bg_color=000000&border_color=007acc" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
 </div>
 
-----
+---
 
-### 🤝 Conexões
+### 🌐 Social
+<div align="left">
 
-<a href="https://discord.com/users/1288987201903792229" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:ds.lucasilva@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://br.linkedin.com/in/lucas-silva-01aa85251" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="https://instagram.com/luqasmsv" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmsv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmsv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
