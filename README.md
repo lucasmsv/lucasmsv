@@ -21,15 +21,9 @@
 
 ### 🌐 Social
 <div align="left">
-
   <a href="https://br.linkedin.com/in/lucas-silva-01aa85251" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-
-  <a href="https://instagram.com/luqasmsv" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
-
 </div>
 
 ---
